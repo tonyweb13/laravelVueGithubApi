@@ -1,5 +1,6 @@
 
-# GitHub Rest API Open Issues App using PHP 8, Laravel 12, Vue 3, Axios
+# GitHub Rest API Open Issues App
+## using PHP 8, Laravel 12, Vue 3, Axios
 
 ```bash
 git clone https://github.com/tonyweb13/laravelVueGithubApi.git
